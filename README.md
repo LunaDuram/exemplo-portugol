@@ -1,2 +1,2 @@
 # exemplo-portugol
-Um exemplo de como se aplica o portugol na construção de um algorítimo com a turma SJ-RJ
+Um exemplo de como se aplica o portugol na construção de um algorítimo com a turma SJ 01-RJ
